@@ -1,5 +1,11 @@
 # langchain
 
+## 1.2.28
+
+### Patch Changes
+
+- [#10146](https://github.com/langchain-ai/langchainjs/pull/10146) [`67cc069`](https://github.com/langchain-ai/langchainjs/commit/67cc069af19844d8c2676f6ae36117af7c7740d4) Thanks [@eddienubes](https://github.com/eddienubes)! - docs: update an outdated middleware example
+
 ## 1.2.27
 
 ### Patch Changes
